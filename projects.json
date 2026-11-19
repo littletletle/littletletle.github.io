@@ -5,7 +5,7 @@
     "subtitle": "展项内容大纲与风格深化方案",
     "category": "企业展厅",
     "pages": 41,
-    "size": 15.3,
+    "size": 16.2,
     "pdf": "documents/xiongan.pdf",
     "cover": "assets/xiongan.webp"
   },
@@ -15,7 +15,7 @@
     "subtitle": "数字机器人主题空间方案",
     "category": "企业展厅",
     "pages": 47,
-    "size": 10.7,
+    "size": 11.6,
     "pdf": "documents/robotics.pdf",
     "cover": "assets/robotics.webp"
   },
@@ -25,7 +25,7 @@
     "subtitle": "2026–2028 项目服务方案",
     "category": "创意服务",
     "pages": 136,
-    "size": 28.8,
+    "size": 30.8,
     "pdf": "documents/creative.pdf",
     "cover": "assets/creative.webp"
   },
@@ -35,7 +35,7 @@
     "subtitle": "2026–2030 项目服务方案",
     "category": "多媒体展项",
     "pages": 112,
-    "size": 31.0,
+    "size": 34.3,
     "pdf": "documents/multimedia.pdf",
     "cover": "assets/multimedia.webp"
   },
@@ -45,7 +45,7 @@
     "subtitle": "空间效果图方案",
     "category": "城市规划馆",
     "pages": 36,
-    "size": 8.0,
+    "size": 8.1,
     "pdf": "documents/tonglu.pdf",
     "cover": "assets/tonglu.webp"
   },
@@ -55,7 +55,7 @@
     "subtitle": "主题展项方案",
     "category": "多媒体展项",
     "pages": 51,
-    "size": 10.4,
+    "size": 11.1,
     "pdf": "documents/enterprise.pdf",
     "cover": "assets/enterprise.webp"
   },
@@ -75,7 +75,7 @@
     "subtitle": "专业经历与教育背景",
     "category": "个人资料",
     "pages": 2,
-    "size": 0.1,
+    "size": 0.2,
     "pdf": "documents/resume.pdf",
     "cover": "assets/resume.webp"
   },
@@ -85,7 +85,7 @@
     "subtitle": "展陈策划与多媒体体验精选",
     "category": "个人资料",
     "pages": 10,
-    "size": 4.1,
+    "size": 4.2,
     "pdf": "documents/portfolio.pdf",
     "cover": "assets/portfolio.webp"
   }
