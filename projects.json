@@ -20,6 +20,16 @@
     "cover": "assets/robotics.webp"
   },
   {
+    "id": "science5g",
+    "title": "中国科技馆5G科普体验厅",
+    "subtitle": "内容运营与展项体验方案",
+    "category": "科普体验",
+    "pages": 122,
+    "size": 21.1,
+    "pdf": "documents/science5g.pdf",
+    "cover": "assets/science5g.webp"
+  },
+  {
     "id": "cmcc-integration",
     "title": "中国移动展览展示集成",
     "subtitle": "展览展示集成服务方案",
@@ -40,24 +50,14 @@
     "cover": "assets/booth-design.webp"
   },
   {
-    "id": "science5g",
-    "title": "中国科技馆5G科普体验厅",
-    "subtitle": "内容运营与展项体验方案",
-    "category": "科普体验",
-    "pages": 122,
-    "size": 21.1,
-    "pdf": "documents/science5g.pdf",
-    "cover": "assets/science5g.webp"
-  },
-  {
-    "id": "enterprise",
-    "title": "政企总领展项",
-    "subtitle": "主题展项方案",
-    "category": "多媒体展项",
-    "pages": 51,
-    "size": 11.1,
-    "pdf": "documents/enterprise.pdf",
-    "cover": "assets/enterprise.webp"
+    "id": "creative",
+    "title": "创意设计与物料制作",
+    "subtitle": "2026–2028 项目服务方案",
+    "category": "创意服务",
+    "pages": 136,
+    "size": 30.8,
+    "pdf": "documents/creative.pdf",
+    "cover": "assets/creative.webp"
   },
   {
     "id": "display-operations",
@@ -70,14 +70,14 @@
     "cover": "assets/display-operations-exhibit.webp"
   },
   {
-    "id": "creative",
-    "title": "创意设计与物料制作",
-    "subtitle": "2026–2028 项目服务方案",
-    "category": "创意服务",
-    "pages": 136,
-    "size": 30.8,
-    "pdf": "documents/creative.pdf",
-    "cover": "assets/creative.webp"
+    "id": "enterprise",
+    "title": "政企总领展项",
+    "subtitle": "主题展项方案",
+    "category": "多媒体展项",
+    "pages": 51,
+    "size": 11.1,
+    "pdf": "documents/enterprise.pdf",
+    "cover": "assets/enterprise.webp"
   },
   {
     "id": "resume",
