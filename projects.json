@@ -20,34 +20,34 @@
     "cover": "assets/robotics.webp"
   },
   {
-    "id": "creative",
-    "title": "创意设计与物料制作",
-    "subtitle": "2026–2028 项目服务方案",
-    "category": "创意服务",
-    "pages": 136,
-    "size": 30.8,
-    "pdf": "documents/creative.pdf",
-    "cover": "assets/creative.webp"
+    "id": "cmcc-integration",
+    "title": "中国移动展览展示集成",
+    "subtitle": "展览展示集成服务方案",
+    "category": "大型展会",
+    "pages": 187,
+    "size": 38.6,
+    "pdf": "documents/cmcc-integration.pdf",
+    "cover": "assets/cmcc-integration.webp"
   },
   {
-    "id": "multimedia",
-    "title": "多媒体展项开发与运营",
-    "subtitle": "2026–2030 项目服务方案",
-    "category": "多媒体展项",
-    "pages": 112,
-    "size": 34.3,
-    "pdf": "documents/multimedia.pdf",
-    "cover": "assets/multimedia.webp"
+    "id": "booth-design",
+    "title": "展台设计制作搭建",
+    "subtitle": "展台设计与制作搭建方案",
+    "category": "大型展会",
+    "pages": 159,
+    "size": 37.0,
+    "pdf": "documents/booth-design.pdf",
+    "cover": "assets/booth-design.webp"
   },
   {
-    "id": "tonglu",
-    "title": "桐庐城市规划馆",
-    "subtitle": "空间效果图方案",
-    "category": "城市规划馆",
-    "pages": 36,
-    "size": 8.1,
-    "pdf": "documents/tonglu.pdf",
-    "cover": "assets/tonglu.webp"
+    "id": "science5g",
+    "title": "中国科技馆5G科普体验厅",
+    "subtitle": "内容运营与展项体验方案",
+    "category": "科普体验",
+    "pages": 122,
+    "size": 21.1,
+    "pdf": "documents/science5g.pdf",
+    "cover": "assets/science5g.webp"
   },
   {
     "id": "enterprise",
@@ -60,14 +60,24 @@
     "cover": "assets/enterprise.webp"
   },
   {
-    "id": "unis",
-    "title": "紫光计算机智能工厂展厅",
-    "subtitle": "智能制造主题展厅方案",
-    "category": "企业展厅",
-    "pages": 31,
-    "size": 11.1,
-    "pdf": "documents/unis.pdf",
-    "cover": "assets/unis.webp"
+    "id": "display-operations",
+    "title": "多媒体展示设计及运营",
+    "subtitle": "多媒体展项设计与运营服务方案",
+    "category": "多媒体展项",
+    "pages": 141,
+    "size": 27.9,
+    "pdf": "documents/display-operations.pdf",
+    "cover": "assets/display-operations.webp"
+  },
+  {
+    "id": "creative",
+    "title": "创意设计与物料制作",
+    "subtitle": "2026–2028 项目服务方案",
+    "category": "创意服务",
+    "pages": 136,
+    "size": 30.8,
+    "pdf": "documents/creative.pdf",
+    "cover": "assets/creative.webp"
   },
   {
     "id": "resume",

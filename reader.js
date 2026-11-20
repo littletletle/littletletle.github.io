@@ -3,7 +3,7 @@ fetch('projects.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(da
  const p=data.find(p=>p.id===id);if(!p)throw Error('没有找到这份方案');
  document.title=p.title+' · 蒋尉聪';document.querySelector('#title').textContent=p.title;
  const pdf=new URL(p.pdf,location.href);
- pdf.searchParams.set('v','watermark-20261119');
+ pdf.searchParams.set('v','watermark-20261120');
  const url=new URL('pdfjs-compatible/web/viewer.html',location.href);
  url.searchParams.set('file',pdf.href);url.hash='locale=zh-CN&zoom=page-fit';
  const loading=document.createElement('p');loading.className='reader-status';loading.textContent='正在加载方案…';document.body.append(loading);

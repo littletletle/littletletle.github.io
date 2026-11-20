@@ -1,5 +1,5 @@
 let projects=[],category='全部';
-const slides=[{id:'xiongan',title:'全景雄安'},{id:'robotics',title:'华为（西南）数字机器人创新中心'},{id:'tonglu',title:'桐庐规划馆'},{id:'enterprise',title:'政企总领沙盘'}];
+const slides=[{id:'xiongan',title:'全景雄安'},{id:'booth-design',title:'展台设计制作搭建'},{id:'science5g',title:'中国科技馆5G科普体验厅'},{id:'robotics',title:'华为（西南）数字机器人创新中心'}];
 const hero=document.querySelector('.hero'),visual=hero.querySelector('.hero-visual'),heroImage=visual.querySelector('img'),caption=hero.querySelector('.hero-caption'),dots=hero.querySelector('.hero-dots'),pause=document.querySelector('#hero-pause');
 let currentSlide=0,paused=matchMedia('(prefers-reduced-motion: reduce)').matches,timer,touchX=null;
 function showSlide(index){currentSlide=(index+slides.length)%slides.length;const slide=slides[currentSlide];heroImage.src=`assets/${slide.id}.webp`;heroImage.alt=slide.title+'方案效果图';visual.href=caption.href=`reader.html?project=${slide.id}`;visual.setAttribute('aria-label','阅读'+slide.title+'方案');caption.querySelector('strong').textContent=slide.title+' ↗';[...dots.children].forEach((button,i)=>{button.classList.toggle('active',i===currentSlide);button.setAttribute('aria-pressed',String(i===currentSlide))});}
