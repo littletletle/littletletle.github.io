@@ -1,7 +1,8 @@
 const params=new URLSearchParams(location.search),id=params.get('project'),frame=document.querySelector('#viewer');
-fetch('projects.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{
+fetch('projects.json?v=20261125-access',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{
  const p=data.find(p=>p.id===id);if(!p)throw Error('没有找到这份方案');
  document.title=p.title+' · 蒋尉聪';document.querySelector('#title').textContent=p.title;
+ if(p.available===false||!p.pdf){document.querySelector('#fullscreen').hidden=true;frame.outerHTML='<div class="reader-error">此方案暂不开放阅读。<br><a href="index.html#work">返回作品集</a></div>';return;}
  const pdf=new URL(p.pdf,location.href);
  pdf.searchParams.set('v','watermark-20261120');
  const url=new URL('pdfjs-compatible/web/viewer.html',location.href);

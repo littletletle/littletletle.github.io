@@ -6,8 +6,9 @@
     "category": "企业展厅",
     "pages": 41,
     "size": 16.2,
-    "pdf": "documents/xiongan.pdf",
-    "cover": "assets/xiongan.webp"
+    "pdf": null,
+    "cover": "assets/xiongan.webp",
+    "available": false
   },
   {
     "id": "robotics",
@@ -16,8 +17,9 @@
     "category": "企业展厅",
     "pages": 47,
     "size": 11.6,
-    "pdf": "documents/robotics.pdf",
-    "cover": "assets/robotics.webp"
+    "pdf": null,
+    "cover": "assets/robotics.webp",
+    "available": false
   },
   {
     "id": "science5g",
@@ -26,8 +28,9 @@
     "category": "科普体验",
     "pages": 122,
     "size": 21.1,
-    "pdf": "documents/science5g.pdf",
-    "cover": "assets/science5g.webp"
+    "pdf": null,
+    "cover": "assets/science5g.webp",
+    "available": false
   },
   {
     "id": "cmcc-integration",
@@ -37,7 +40,8 @@
     "pages": 187,
     "size": 38.6,
     "pdf": "documents/cmcc-integration.pdf",
-    "cover": "assets/cmcc-integration.webp"
+    "cover": "assets/cmcc-integration.webp",
+    "available": true
   },
   {
     "id": "booth-design",
@@ -47,7 +51,8 @@
     "pages": 159,
     "size": 37.0,
     "pdf": "documents/booth-design.pdf",
-    "cover": "assets/booth-design.webp"
+    "cover": "assets/booth-design.webp",
+    "available": true
   },
   {
     "id": "creative",
@@ -56,8 +61,9 @@
     "category": "创意服务",
     "pages": 136,
     "size": 30.8,
-    "pdf": "documents/creative.pdf",
-    "cover": "assets/creative.webp"
+    "pdf": null,
+    "cover": "assets/creative.webp",
+    "available": false
   },
   {
     "id": "display-operations",
@@ -66,8 +72,9 @@
     "category": "多媒体展项",
     "pages": 141,
     "size": 27.9,
-    "pdf": "documents/display-operations.pdf",
-    "cover": "assets/display-operations-exhibit.webp"
+    "pdf": null,
+    "cover": "assets/display-operations-exhibit.webp",
+    "available": false
   },
   {
     "id": "enterprise",
@@ -76,8 +83,9 @@
     "category": "多媒体展项",
     "pages": 51,
     "size": 11.1,
-    "pdf": "documents/enterprise.pdf",
-    "cover": "assets/enterprise.webp"
+    "pdf": null,
+    "cover": "assets/enterprise.webp",
+    "available": false
   },
   {
     "id": "resume",
@@ -87,7 +95,8 @@
     "pages": 2,
     "size": 0.2,
     "pdf": "documents/resume.pdf",
-    "cover": "assets/resume.webp"
+    "cover": "assets/resume.webp",
+    "available": true
   },
   {
     "id": "portfolio",
@@ -96,7 +105,8 @@
     "category": "个人资料",
     "pages": 10,
     "size": 4.2,
-    "pdf": "documents/portfolio.pdf",
-    "cover": "assets/portfolio.webp"
+    "pdf": null,
+    "cover": "assets/portfolio.webp",
+    "available": false
   }
 ]
