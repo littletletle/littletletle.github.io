@@ -22,6 +22,28 @@
     "available": true
   },
   {
+    "id": "cmcc-integration",
+    "title": "中国移动展览展示集成",
+    "subtitle": "展览展示集成服务方案",
+    "category": "大型展会",
+    "pages": 187,
+    "size": 38.6,
+    "pdf": "documents/cmcc-integration.pdf",
+    "cover": "assets/cmcc-integration.webp",
+    "available": true
+  },
+  {
+    "id": "booth-design",
+    "title": "展台设计制作搭建",
+    "subtitle": "展台设计与制作搭建方案",
+    "category": "大型展会",
+    "pages": 159,
+    "size": 37.0,
+    "pdf": "documents/booth-design.pdf",
+    "cover": "assets/booth-design.webp",
+    "available": true
+  },
+  {
     "id": "xiongan",
     "title": "全景雄安",
     "subtitle": "展项内容大纲与风格深化方案",
@@ -53,28 +75,6 @@
     "pdf": null,
     "cover": "assets/science5g.webp",
     "available": false
-  },
-  {
-    "id": "cmcc-integration",
-    "title": "中国移动展览展示集成",
-    "subtitle": "展览展示集成服务方案",
-    "category": "大型展会",
-    "pages": 187,
-    "size": 38.6,
-    "pdf": "documents/cmcc-integration.pdf",
-    "cover": "assets/cmcc-integration.webp",
-    "available": true
-  },
-  {
-    "id": "booth-design",
-    "title": "展台设计制作搭建",
-    "subtitle": "展台设计与制作搭建方案",
-    "category": "大型展会",
-    "pages": 159,
-    "size": 37.0,
-    "pdf": "documents/booth-design.pdf",
-    "cover": "assets/booth-design.webp",
-    "available": true
   },
   {
     "id": "creative",
