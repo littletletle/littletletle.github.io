@@ -5,10 +5,11 @@
     "subtitle": "年度展览展示与发布会服务方案",
     "category": "大型展会",
     "pages": 192,
-    "size": 21.7,
-    "pdf": "documents/annual-events.pdf",
-    "cover": "assets/annual-events.webp",
-    "available": true
+    "size": 16.5,
+    "pdf": "documents/annual-events-web.pdf",
+    "cover": "assets/annual-events-stage.webp",
+    "available": true,
+    "preview": "assets/annual-events-preview.webp"
   },
   {
     "id": "ai-meeting",
@@ -16,10 +17,11 @@
     "subtitle": "新品发布会策划与执行方案",
     "category": "大型展会",
     "pages": 78,
-    "size": 21.4,
-    "pdf": "documents/ai-meeting.pdf",
+    "size": 14.1,
+    "pdf": "documents/ai-meeting-web.pdf",
     "cover": "assets/ai-meeting.webp",
-    "available": true
+    "available": true,
+    "preview": "assets/ai-meeting-preview.webp"
   },
   {
     "id": "cmcc-integration",
@@ -27,10 +29,11 @@
     "subtitle": "展览展示集成服务方案",
     "category": "大型展会",
     "pages": 187,
-    "size": 38.6,
-    "pdf": "documents/cmcc-integration.pdf",
+    "size": 26.4,
+    "pdf": "documents/cmcc-integration-web.pdf",
     "cover": "assets/cmcc-integration.webp",
-    "available": true
+    "available": true,
+    "preview": "assets/cmcc-integration-preview.webp"
   },
   {
     "id": "booth-design",
@@ -38,10 +41,11 @@
     "subtitle": "展台设计与制作搭建方案",
     "category": "大型展会",
     "pages": 159,
-    "size": 37.0,
-    "pdf": "documents/booth-design.pdf",
+    "size": 22.4,
+    "pdf": "documents/booth-design-web.pdf",
     "cover": "assets/booth-design.webp",
-    "available": true
+    "available": true,
+    "preview": "assets/booth-design-preview.webp"
   },
   {
     "id": "xiongan",

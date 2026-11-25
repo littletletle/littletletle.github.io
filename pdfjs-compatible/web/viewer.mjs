@@ -5543,6 +5543,9 @@ const defaultOptions = new Map([["allowedGlobalEvents", {
 }], ["disableAutoFetch", {
   value: false,
   kind: OptionKind.API + OptionKind.PREFERENCE
+}], ["rangeChunkSize", {
+  value: 262144,
+  kind: OptionKind.API
 }], ["disableFontFace", {
   value: false,
   kind: OptionKind.API + OptionKind.PREFERENCE
