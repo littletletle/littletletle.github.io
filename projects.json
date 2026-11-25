@@ -1,5 +1,27 @@
 [
   {
+    "id": "annual-events",
+    "title": "中国移动年度展览展示及发布会支撑",
+    "subtitle": "年度展览展示与发布会服务方案",
+    "category": "大型展会",
+    "pages": 192,
+    "size": 21.7,
+    "pdf": "documents/annual-events.pdf",
+    "cover": "assets/annual-events.webp",
+    "available": true
+  },
+  {
+    "id": "ai-meeting",
+    "title": "云视讯AI慧记新品发布会",
+    "subtitle": "新品发布会策划与执行方案",
+    "category": "大型展会",
+    "pages": 78,
+    "size": 21.4,
+    "pdf": "documents/ai-meeting.pdf",
+    "cover": "assets/ai-meeting.webp",
+    "available": true
+  },
+  {
     "id": "xiongan",
     "title": "全景雄安",
     "subtitle": "展项内容大纲与风格深化方案",
@@ -52,28 +74,6 @@
     "size": 37.0,
     "pdf": "documents/booth-design.pdf",
     "cover": "assets/booth-design.webp",
-    "available": true
-  },
-  {
-    "id": "annual-events",
-    "title": "中国移动年度展览展示及发布会支撑",
-    "subtitle": "年度展览展示与发布会服务方案",
-    "category": "大型展会",
-    "pages": 192,
-    "size": 21.7,
-    "pdf": "documents/annual-events.pdf",
-    "cover": "assets/annual-events.webp",
-    "available": true
-  },
-  {
-    "id": "ai-meeting",
-    "title": "云视讯AI慧记新品发布会",
-    "subtitle": "新品发布会策划与执行方案",
-    "category": "大型展会",
-    "pages": 78,
-    "size": 21.4,
-    "pdf": "documents/ai-meeting.pdf",
-    "cover": "assets/ai-meeting.webp",
     "available": true
   },
   {
